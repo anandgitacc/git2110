@@ -2,11 +2,11 @@ package org.employee;
 
 public class EmployeeDetails {
 	
-	private void empName() {
+	private void empN() {
 		
 		System.out.println("Employee Name is : Anand");
 	}
-	private void empMobNo() {
+	private void empM() {
 		
 		System.out.println("Employee mobile no is : 8667070832");
 	}
@@ -20,8 +20,8 @@ public class EmployeeDetails {
 		
 		EmployeeDetails ed = new EmployeeDetails();
 		
-		ed.empName();
-		ed.empMobNo();
+		ed.empN();
+		ed.empM();
 		
 	}
 }
