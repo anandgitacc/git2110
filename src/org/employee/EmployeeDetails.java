@@ -11,6 +11,11 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile no is : 8667070832");
 	}
 	
+	private void empMob() {
+		
+		System.out.println("Employee mobile : 444");
+	}
+	
 	public static void main(String[] args) {
 		
 		EmployeeDetails ed = new EmployeeDetails();
