@@ -2,6 +2,7 @@ package org.employee;
 
 public class EmployeeDetails {
 	
+	
 	private void empN() {
 		
 		System.out.println("Employee Name is : Anand");
